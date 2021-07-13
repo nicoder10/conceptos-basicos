@@ -10,4 +10,4 @@ const dividir = (x, y) => {
 console.log(sumar(1, 1));
 console.log(restar(2, 1));
 console.log(multiplicar(2, 1));
-console.log(dividir(2, 0));
+console.log(dividir(3, 0));
